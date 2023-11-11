@@ -340,7 +340,7 @@ li {
 .case-card {
   background-color: #ffffff;
   min-height: 400px;
-  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.05);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
 }
 
 .case-img {
